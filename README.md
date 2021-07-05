@@ -1,3 +1,3 @@
-# Belly_button_plots
+# Belly_button_biodiversity
 Belly button Analysis with D3.json
-*_ Website can be accessed at: https://krishnakalisarkar.github.io/Belly_button_plots/_*
+*_ Website can be accessed at: _*
