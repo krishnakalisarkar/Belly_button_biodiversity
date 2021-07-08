@@ -5,7 +5,8 @@ function buildCharts(sample) {
     console.log(data);
 
     // Create a variable that holds the samples array. 
-
+  var samples =  data.samples; 
+    
     // Create a variable that filters the samples for the object with the desired sample number.
 
     // 1. Create a variable that filters the metadata array for the object with the desired sample number.
@@ -24,23 +25,23 @@ function buildCharts(sample) {
     // Create the yticks for the bar chart.
 
     // Use Plotly to plot the bar data and layout.
-    Plotly.newPlot();
+    //Plotly.newPlot();
     
     // Use Plotly to plot the bubble data and layout.
-    Plotly.newPlot();
+    //Plotly.newPlot();
    
     
     // 4. Create the trace for the gauge chart.
-    var gaugeData = [
+    //var gaugeData = [
      
-    ];
+    //];
     
     // 5. Create the layout for the gauge chart.
-    var gaugeLayout = { 
+   // var gaugeLayout = { 
      
-    };
+    //};
 
     // 6. Use Plotly to plot the gauge data and layout.
-    Plotly.newPlot();
+   // Plotly.newPlot();
   });
 }
