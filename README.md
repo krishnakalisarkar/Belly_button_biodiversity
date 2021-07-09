@@ -30,7 +30,7 @@ A bubble graph with hover text was created including all the bacterial species t
 
 ### Gauge map:
 
-![gauge]()
+![gauge](Images/gauge.png)
 
 A Gauge Chart is created with taking the washing frequency from the metadata where the bar of the gauge marks the number of washing frequencies.
 
