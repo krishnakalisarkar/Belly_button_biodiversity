@@ -24,7 +24,7 @@ A horizontal bar graph with hover text was created with the top 10 bacterial dat
 
 ### Bubble graph:
 
-![bubble]()
+![bubble](Images/bubble.png)
 
 A bubble graph with hover text was created including all the bacterial species that are present in the volunteer's belly button.
 
