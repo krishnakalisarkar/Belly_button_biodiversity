@@ -18,7 +18,7 @@ The process of website building was initiated by making a dashboard and panel fo
 
 ### Horizontal Bar graph:
 
-![hbar]()
+![hbar](Images/horizontal_bar.png)
 
 A horizontal bar graph with hover text was created with the top 10 bacterial data along with their OTU ID's.
 
