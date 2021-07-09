@@ -117,7 +117,7 @@ function buildCharts(sample) {
       text: sampleLabel.slice(0,10).reverse(),
       type: "bar",
       orientation: "h",
-      marker: {color: "rgb(142,124,195)"}
+      marker: {color: "RebeccaPurple"}
       }];
     // 9. Create the layout for the bar chart. 
     
