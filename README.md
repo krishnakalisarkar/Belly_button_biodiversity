@@ -14,7 +14,7 @@ Well, nothing is impossible in Biological Sciences. The purpose of this research
 ### Purpose of this study:
 
 The purpose of this study is to create a website with full information where the volunteers of this study will be able to identify the top 10 bacterial species present in their belly buttons. That way, if "*Improbable Beef*" identifies a species of bacteria as a candidate to manufacture synthetic beef, the volunteers will be able to identify whether that species is found in their navel.  
-The process of website building was initiated by making a dashboard and panel for demographic information where a volunteer's Id can be used as an "input". This was followed by creating visualization of the top 10 bacterial data for each volunteer.
+The process of website building was initiated by making a dashboard and panel for demographic information where a volunteer's Id can be used as an "input". This was followed by creating visualization of the top 10 bacterial data for each volunteer. The dashboard is interactive, as one enters their ID number, the 3 graphs change accordingly showing their top 10 bacterial species as a horizontal bar graph, list of all the bacterias colonized in their belly button as a bubble chart and the frequency of washing as a gauge chart.
 
 ### Horizontal Bar graph:
 
